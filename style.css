@@ -46,4 +46,8 @@ body {
   padding-right: 300px;
   padding-left: 300px;
 }*/
-
+ .images .content {
+ 	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
