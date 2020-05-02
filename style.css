@@ -6,6 +6,10 @@
 	background-color: #333333;
 }
 
+.menu img {
+	background-color: #333333;
+}
+
 .menu li {
 	float: left;
 	padding: 10px;
@@ -24,3 +28,22 @@
   background-color: #111111;
 
 }
+
+.nolinkurl {
+	text-decoration: none;
+	color: black;
+}
+
+body {
+	font-family: Arial;
+	text-align: justify;
+}
+
+/*.content {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 300px;
+  padding-left: 300px;
+}*/
+
