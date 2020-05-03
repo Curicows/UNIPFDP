@@ -36,28 +36,20 @@
 
 body {
 	font-family: Arial;
-	text-align: justify;
+	text-align: center;
 	background-color: #aaaaaa;
 }
 
-/*.content {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-right: 300px;
-  padding-left: 300px;
-}
-/*.content .images {
- 	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
- }*/
- .content p,h1,h2,h3,video {
+ .content p,h1,h2,h3,h4,video {
   display: block;
   margin-left: auto;
   margin-right: auto;
   padding-right: 200px;
   padding-left: 200px;
+}
+
+.content p {
+	text-align: justify;
 }
 
 .images img {
